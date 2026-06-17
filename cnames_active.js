@@ -39,7 +39,6 @@
 
 var cnames_active = {
   "": "js-org.github.io",
-  "disfox": "DisfoxJS.github.io/disfox-docs",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
   "101": "7anshuai.github.io/js101", // noCF? (don´t add this in a new PR)
@@ -889,6 +888,7 @@ var cnames_active = {
   "districode-p2p": "districode-p2p.netlify.app",
   "distube": "distubejs.github.io",
   "diswrap": "023eb747b8-hosting.gitbook.io",
+  "disfox": "disfoxjs.github.io/disfox-docs",
   "ditox": "mnasyrov.github.io/ditox",
   "div": "div-js.github.io/div.js.org",
   "divifier": "eaaasun.github.io/divifier",
